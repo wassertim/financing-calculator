@@ -1,0 +1,46 @@
+{
+    "realEstatePrice": 160000,
+    "years": 20,
+    "financeVariants": [
+        {
+            "interestRate": 3.91,
+            "creditAmount": 113000,
+            "monthlyRepayment": 924,
+            "startMonth": 2,
+            "startYear": 2023,
+            "monthlyIncome": 462,
+            "taxRate": 42,
+            "yearlySpecialRepaymentPercent": 5
+        },
+        {
+            "interestRate": 3.91,
+            "creditAmount": 80000,
+            "monthlyRepayment": 650,
+            "startMonth": 2,
+            "startYear": 2023,
+            "monthlyIncome": 462,
+            "taxRate": 42,
+            "yearlySpecialRepaymentPercent": 0
+        },
+        {
+            "interestRate": 3.91,
+            "creditAmount": 80000,
+            "monthlyRepayment": 924,
+            "startMonth": 2,
+            "startYear": 2023,
+            "monthlyIncome": 462,
+            "taxRate": 42,
+            "yearlySpecialRepaymentPercent": 0
+        },
+        {
+            "interestRate": 3.91,
+            "creditAmount": 70000,
+            "monthlyRepayment": 924,
+            "startMonth": 2,
+            "startYear": 2023,
+            "monthlyIncome": 462,
+            "taxRate": 42,
+            "yearlySpecialRepaymentPercent": 0
+        }
+    ]
+}
